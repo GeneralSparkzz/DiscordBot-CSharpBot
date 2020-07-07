@@ -1,0 +1,85 @@
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.exe
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.csprojAssemblyReference.cache
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.AssemblyInfoInputs.cache
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.AssemblyInfo.cs
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.deps.json
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.runtimeconfig.json
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.runtimeconfig.dev.json
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.dll
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.pdb
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\Discord.Net.Commands.dll
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\Discord.Net.Core.dll
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\Discord.Net.Rest.dll
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\Discord.Net.Webhook.dll
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\Discord.Net.WebSocket.dll
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\System.Interactive.Async.dll
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.csproj.CopyComplete
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.dll
+E:\DiscordSnuggleBot\SnuggleBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.pdb
+E:\DiscordSnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.exe
+E:\DiscordSnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.deps.json
+E:\DiscordSnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.runtimeconfig.json
+E:\DiscordSnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.runtimeconfig.dev.json
+E:\DiscordSnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.dll
+E:\DiscordSnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.pdb
+E:\DiscordSnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\Discord.Net.Commands.dll
+E:\DiscordSnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\Discord.Net.Core.dll
+E:\DiscordSnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\Discord.Net.Rest.dll
+E:\DiscordSnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\Discord.Net.Webhook.dll
+E:\DiscordSnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\Discord.Net.WebSocket.dll
+E:\DiscordSnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+E:\DiscordSnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DiscordSnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\DiscordSnuggleBot\SnuggleBot\bin\Debug\netcoreapp3.0\System.Interactive.Async.dll
+E:\DiscordSnuggleBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.csprojAssemblyReference.cache
+E:\DiscordSnuggleBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.AssemblyInfoInputs.cache
+E:\DiscordSnuggleBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.AssemblyInfo.cs
+E:\DiscordSnuggleBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.csproj.CopyComplete
+E:\DiscordSnuggleBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.dll
+E:\DiscordSnuggleBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.pdb
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.exe
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.deps.json
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.runtimeconfig.json
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.runtimeconfig.dev.json
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\SnuggleBot.pdb
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\Discord.Net.Commands.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\Discord.Net.Core.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\Discord.Net.Rest.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\Discord.Net.Webhook.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\Discord.Net.WebSocket.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\System.Interactive.Async.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.csprojAssemblyReference.cache
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.AssemblyInfoInputs.cache
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.AssemblyInfo.cs
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.csproj.CopyComplete
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.pdb
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.genruntimeconfig.cache
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\PTC Work\Quarter 7\Career\DiscordBot\CSharpBot\SnuggleBot\obj\Debug\netcoreapp3.0\SnuggleBot.csproj.CoreCompileInputs.cache
